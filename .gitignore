@@ -1,0 +1,13 @@
+# Secrets / tokens
+.env
+*.env
+.env.*
+token.txt
+.cache*
+
+# Python noise
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
